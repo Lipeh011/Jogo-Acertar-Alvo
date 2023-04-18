@@ -13,7 +13,7 @@ O jogo continua até que o jogador decida sair ou acerte um número suficiente d
 </br>
 <h1>Como jogar 🎮</h1>
 </br>
-Para jogar o Jogo ao Alvo, basta abrir o arquivo index.html em um navegador e clicar em um dos botões de dificuldade ou clicar aqui  <href="https://lipeh011.github.io/Jogo-Acertar-Alvo/"></href> . O jogador deve clicar na tela para acertar o alvo e tentar acertar o maior número possível de alvos. 
+Para jogar o Jogo ao Alvo, basta abrir o arquivo index.html em um navegador e clicar em um dos botões de dificuldade ou <a href="https://lipeh011.github.io/Jogo-Acertar-Alvo/" target="_blank"> clicar aqui</a>. O jogador deve clicar na tela para acertar o alvo e tentar acertar o maior número possível de alvos. 
 </br>
 <h1>Tecnologias utilizadas 🔨 </h1>
 </br>
